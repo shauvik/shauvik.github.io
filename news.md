@@ -5,7 +5,7 @@ title: News
 
 <h1>News</h1>
 
-* <strong>Mar 19th, 2014:</strong> <a href="http://checkdroid.com">CheckDroid</a> won the 1st Prize at <a href="http://startupmad.com">Startup Madness</a>, an entrepreneurial competition of the ACC schools. Media: <a href="http://www.cc.gatech.edu/news/georgia-tech%E2%80%99s-checkdroid-wins-2014-startup-madness-competition">[1]</a>, <a href="http://www.bizjournals.com/triangle/blog/techflash/2014/03/ncsus-startup-madness-spotlights-college.html">[2]</a>, <a href="http://www.wncn.com/story/25023370/acc-business-students-compete-in-start-up-madness-at-ncsu">[3]</a>, <a href="http://upstart.bizjournals.com/companies/startups/2014/03/20/startup-madness-takes-hold-ncsu.html?page=all">[4]</a>
+* <strong>Mar 19th, 2014:</strong> <a href="http://checkdroid.com">CheckDroid</a> won the 1st Prize at <a href="http://startupmad.com">Startup Madness</a>, an entrepreneurial competition of the ACC schools. Media: <a href="http://www.cc.gatech.edu/news/georgia-tech%E2%80%99s-checkdroid-wins-2014-startup-madness-competition">[1</a>, <a href="http://www.bizjournals.com/triangle/blog/techflash/2014/03/ncsus-startup-madness-spotlights-college.html">2</a>, <a href="http://www.wncn.com/story/25023370/acc-business-students-compete-in-start-up-madness-at-ncsu">3</a>, <a href="http://upstart.bizjournals.com/companies/startups/2014/03/20/startup-madness-takes-hold-ncsu.html?page=all">4]</a>
 
 * <strong>Mar 13th, 2014:</strong> I successfully defended my PhD proposal.
 
