@@ -1,3 +1,25 @@
 name: Your New Jekyll Site
+
+# Dependencies
 markdown: redcarpet
 pygments: true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Shauvik <br /><small>Roy Choudhary</small>'
+tagline:          'PhD candidate, Entrepreneur'
+description:      'PhD candidate, Georgia Tech.<br />Founder, <a href="http://checkdroid.com">CheckDroid</a>.'
+url:              http://shauvik.com
+
+author:
+  name:           'Shauvik <br />Roy Choudhary'
+  url:            https://twitter.com/shauvik
+
+#paginate:         5
+
+# Custom vars
+
+github:           https://github.com/shauvik
+twitter:          https://twitter.com/shauvik

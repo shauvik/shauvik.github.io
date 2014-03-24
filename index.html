@@ -1,13 +1,17 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Home
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+
+{% include news.html %}
+
+
+<h1>About</h1>
+
+<p>I am a PhD candidate in the <a href="http://www.scs.gatech.edu/">School of Computer Science</a> at <a href="http://www.gatech.edu">Georgia Tech</a>. I work in the Software Engineering group under the supervision of <a href="http://www.cc.gatech.edu/~orso/">Dr. Alex Orso</a>. My research goal is to improve the testing and maintenance of modern software applications across multiple platforms. In the past, I have also worked on improved penetration testing for web applications.</p> 
+
+<p>In 2012, I was awarded the <a href="http://tiger.gatech.edu">TI:GER fellowship</a>, which changed my focus towards commercializing my research. Under this program, I have created <a href="http://checkdroid.com">CheckDroid</a>, which is a service to help Android developers test their applications across different mobile devices.</p> 
+
+<p>Over the past few years, I have also worked at several companies including <a href="http://www.google.com">Google</a> ('11), <a href="http://www.flacp.fujitsulabs.com/TSIG/">Fujitsu Labs of America</a> ('11), <a href="http://yahoo.com">Yahoo!</a> ('10), <a href="http://www.research.ibm.com/irl/">IBM Research</a> ('09), <a href="http://www.gs.com">Goldman Sachs</a> ('08) and <a href="http://www.hsbcglt.com/">HSBC Software</a>. </p>
+
