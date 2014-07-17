@@ -2,7 +2,7 @@ name: Your New Jekyll Site
 
 # Dependencies
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 
 # Permalinks
 permalink:        pretty
