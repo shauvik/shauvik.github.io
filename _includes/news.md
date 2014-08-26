@@ -1,21 +1,24 @@
+* <strong>Aug 20, 2014:</strong> <a href="http://checkdroid.com">CheckDroid</a> has received a $25K Phase 1A grant from <a href="http://gra.org">GRA Ventures</a>!
 
-* <strong>Jun 24th, 2014:</strong> Attended <a href="https://www.google.com/events/io">Google IO</a> and presented my PhD poster at the <a href="https://sites.google.com/site/ioresearchlab/">research lab</a>.
+* <strong>Jul 23, 2014:</strong> Presented my FMAP paper and X-PERT demo at <a href="http://issta2014.org/">ISSTA 2014</a>!
 
-* <strong>Jun 3rd, 2014:</strong> I presented my research at the ICSE 2014 Doctoral symposium.
+* <strong>Jun 24, 2014:</strong> Attended <a href="https://www.google.com/events/io">Google IO</a> and presented my PhD poster at the <a href="https://sites.google.com/site/ioresearchlab/">research lab</a>.
 
-* <strong>May 22nd, 2014:</strong> Two papers accepted at <a href="http://issta2014.org/">ISSTA 2014</a> &mdash; FMAP paper in the research + artifact track and X-PERT tool paper in the demo track!
+* <strong>Jun 3, 2014:</strong> I presented my research at the ICSE 2014 Doctoral symposium.
 
-* <strong>Mar 19th, 2014:</strong> <a href="http://checkdroid.com">CheckDroid</a> won the 1st Prize at <a href="http://startupmad.com">Startup Madness</a>, an entrepreneurial competition of the ACC schools. Coverage: [<a href="http://www.cc.gatech.edu/news/georgia-tech%E2%80%99s-checkdroid-wins-2014-startup-madness-competition">1</a>, <a href="http://www.bizjournals.com/triangle/blog/techflash/2014/03/ncsus-startup-madness-spotlights-college.html">2</a>, <a href="http://www.wncn.com/story/25023370/acc-business-students-compete-in-start-up-madness-at-ncsu">3</a>, <a href="http://upstart.bizjournals.com/companies/startups/2014/03/20/startup-madness-takes-hold-ncsu.html?page=all">4</a>, <a href="http://poole.ncsu.edu/index-exp.php/news/article/testing-aid-for-android-apps-developers-was-top-team-at-acc-startup-ma/">5</a>]
+* <strong>May 22, 2014:</strong> Two papers accepted at <a href="http://issta2014.org/">ISSTA 2014</a> &mdash; FMAP paper in the research + artifact track and X-PERT tool paper in the demo track!
 
-* <strong>Mar 13th, 2014:</strong> I successfully defended my PhD proposal.
+* <strong>Mar 19, 2014:</strong> <a href="http://checkdroid.com">CheckDroid</a> won the 1st Prize at <a href="http://startupmad.com">Startup Madness</a>, an entrepreneurial competition of the ACC schools. Coverage: [<a href="http://www.cc.gatech.edu/news/georgia-tech%E2%80%99s-checkdroid-wins-2014-startup-madness-competition">1</a>, <a href="http://www.bizjournals.com/triangle/blog/techflash/2014/03/ncsus-startup-madness-spotlights-college.html">2</a>, <a href="http://www.wncn.com/story/25023370/acc-business-students-compete-in-start-up-madness-at-ncsu">3</a>, <a href="http://upstart.bizjournals.com/companies/startups/2014/03/20/startup-madness-takes-hold-ncsu.html?page=all">4</a>, <a href="http://poole.ncsu.edu/index-exp.php/news/article/testing-aid-for-android-apps-developers-was-top-team-at-acc-startup-ma/">5</a>]
 
-* <strong>Mar 10th, 2014:</strong> <a href="http://checkdroid.com">CheckDroid</a> won the <a href="http://startup.gatech.edu/competition/">Georgia Tech Startup Competition</a>!
+* <strong>Mar 13, 2014:</strong> I successfully defended my PhD proposal.
 
-* <strong>Nov 20th, 2012:</strong> Our X-PERT paper got accepted in the Research Track of <a href="http://2013.icse-conferences.org/">ICSE 2013!</a>
+* <strong>Mar 10, 2014:</strong> <a href="http://checkdroid.com">CheckDroid</a> won the <a href="http://startup.gatech.edu/competition/">Georgia Tech Startup Competition</a>!
 
-* <strong>Apr 20th, 2012:</strong> Our ViewPoints paper got accepted in the Research Track of <a href="http://crisys.cs.umn.edu/issta2012/">ISSTA 2012!</a>
+* <strong>Nov 20, 2012:</strong> Our X-PERT paper got accepted in the Research Track of <a href="http://2013.icse-conferences.org/">ICSE 2013!</a>
 
-* <strong>Mar 30th, 2012:</strong> I have been awarded the <a href="http://labs.yahoo.com/ksc">Yahoo KSC award</a> for 2012 and the <a href="http://tiger.gatech.edu">Gatech TI:GER</a> fellowship for next two academic years.
+* <strong>Apr 20, 2012:</strong> Our ViewPoints paper got accepted in the Research Track of <a href="http://crisys.cs.umn.edu/issta2012/">ISSTA 2012!</a>
+
+* <strong>Mar 30, 2012:</strong> I have been awarded the <a href="http://labs.yahoo.com/ksc">Yahoo KSC award</a> for 2012 and the <a href="http://tiger.gatech.edu">Gatech TI:GER</a> fellowship for next two academic years.
 
 * <strong>Aug 2011:</strong> This semester I am interning at Google in their Atlanta office!
 
