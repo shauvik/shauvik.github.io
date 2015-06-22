@@ -2,6 +2,8 @@
 
 * <strong>Feb 1, 2015:</strong> <a href="http://checkdroid.com">CheckDroid</a> has received a $50K grant from <a href="http://nsf.gov">NSF</a> for participation in the <a href="http://www.nsf.gov/news/special_reports/i-corps/">iCorps program</a> for academic startups!
 
+* <strong>Oct 29, 2014:</strong> I lead a roundtable on Mobile Cross-platform Testing & presented our findings at <a href="https://developers.google.com/google-test-automation-conference/2014/presentations#Day2RoundTable1">GTAC 2014</a>.
+
 * <strong>Aug 20, 2014:</strong> <a href="http://checkdroid.com">CheckDroid</a> has received a $25K Phase 1A grant from <a href="http://gra.org">GRA Ventures</a>!
 
 * <strong>Jul 23, 2014:</strong> Presented my FMAP paper and X-PERT demo at <a href="http://issta2014.org/">ISSTA 2014</a>!
