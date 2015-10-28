@@ -1,3 +1,7 @@
+* <strong>Oct 27, 2015:</strong> I'm going to speak at Google's premier testing conference (<a href="https://developers.google.com/google-test-automation-conference/2015">GTAC 2015</a>) on Nov 10th.
+
+* <strong>Oct 22, 2015:</strong> Gave a talk at Software Testing Atlanta Conference (<a href="http://softwaretestingatlcon.com">STAC 2015</a>) on automating test cases. (<a href="http://www.slideshare.net/shauvik/from-manual-to-automated-tests-stac-2015">slides</a>)
+
 * <strong>May 1, 2015:</strong> I am excited to have finished my PhD from Georgia Tech and looking forward to the new journey with <a href="http://checkdroid.com">CheckDroid</a>!
 
 * <strong>Feb 1, 2015:</strong> <a href="http://checkdroid.com">CheckDroid</a> has received a $50K grant from <a href="http://nsf.gov">NSF</a> for participation in the <a href="http://www.nsf.gov/news/special_reports/i-corps/">iCorps program</a> for academic startups!
