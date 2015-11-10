@@ -1,4 +1,4 @@
-* <strong>Oct 27, 2015:</strong> I'm going to speak at Google's premier testing conference (<a href="https://developers.google.com/google-test-automation-conference/2015">GTAC 2015</a>) on Nov 10th.
+* <strong>Nov 10, 2015:</strong> I'm giving a talk at Google's premier testing conference (<a href="https://developers.google.com/google-test-automation-conference/2015">GTAC 2015</a>). [<a href="http://bear.cc.gatech.edu/~shauvik/androtest/">infrastructure</a>]
 
 * <strong>Oct 22, 2015:</strong> Gave a talk at Software Testing Atlanta Conference (<a href="http://softwaretestingatlcon.com">STAC 2015</a>) on automating test cases. (<a href="http://www.slideshare.net/shauvik/from-manual-to-automated-tests-stac-2015">slides</a>)
 
