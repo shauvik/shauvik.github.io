@@ -6,8 +6,6 @@ categories: testing
 draft: true
 ---
 
-# Status: Draft
-
 # Test page
 
 foo 
