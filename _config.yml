@@ -1,7 +1,7 @@
 name: Shauvik Roy Choudhary
 
 # Dependencies
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 
 # Permalinks
