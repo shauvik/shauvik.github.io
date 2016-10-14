@@ -8,9 +8,9 @@ highlighter: rouge
 permalink:        pretty
 
 # Setup
-title:            'Shauvik <br /><small>Roy Choudhary</small>'
+title:            'Shauvik <br /><small>Roy Choudhary, PhD</small>'
 tagline:          'PhD, Entrepreneur'
-description:      'Founder, <a href="https://moquality.com">MoQuality</a>.<br />Software Engineer, <a href="https://fullstory.com">FullStory</a>.<br />PhD from <a href="http://www.cc.gatech.edu/">Georgia Tech</a>.'
+description:      'Founder, <a href="https://moquality.com">MoQuality</a>.'
 url:              http://shauvik.com
 
 author:
