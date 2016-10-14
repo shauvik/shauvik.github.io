@@ -1,8 +1,11 @@
+* <strong>Oct 14, 2016:</strong> Presented at Huawei's R&D conference in Santa Clara, CA
+* <strong>Sep 27, 2016:</strong> Gave a talk at <a href="http://www.softwaretestingatlcon.com/">STAC (Software Testing Atlanta Conference) </a>
+* <strong>Aug 26, 2016:</strong> Delivered two talks in the testing track at <a href="http://androidsummit.org/">AndroidSummit</a> in McLean, VA
 * <strong>Nov 10, 2015:</strong> Presented at Google's premier testing conference (<a href="https://developers.google.com/google-test-automation-conference/2015">GTAC 2015</a>). (<a href="https://youtu.be/Vt8EUQtqBuA">video</a>, <a href="http://bit.ly/shauvik_gtac2015">slides</a>, <a href="http://bear.cc.gatech.edu/~shauvik/androtest/">infrastructure</a>)
 
 * <strong>Oct 22, 2015:</strong> Gave a talk at Software Testing Atlanta Conference (<a href="http://softwaretestingatlcon.com">STAC 2015</a>) on automating test cases. (<a href="http://www.slideshare.net/shauvik/from-manual-to-automated-tests-stac-2015">slides</a>)
 
-* <strong>May 1, 2015:</strong> I am excited to have finished my PhD from Georgia Tech and looking forward to the new journey with <a href="http://checkdroid.com">CheckDroid</a>!
+* <strong>May 1, 2015:</strong> I am excited to have finished my PhD from Georgia Tech and looking forward to the new journey with <a href="http://checkdroid.com"><s>CheckDroid</s></a> <a href="https://moquality.com">MoQuality</a>!
 
 * <strong>Feb 1, 2015:</strong> <a href="http://checkdroid.com">CheckDroid</a> has received a $50K grant from <a href="http://nsf.gov">NSF</a> for participation in the <a href="http://www.nsf.gov/news/special_reports/i-corps/">iCorps program</a> for academic startups!
 
