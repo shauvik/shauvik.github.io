@@ -1,4 +1,4 @@
-* <strong>Oct 14, 2016:</strong> Presented at Huawei's R&D conference in Santa Clara, CA
+* <strong>Oct 14, 2016:</strong> Presented at <a href="huawei.com">Huawei</a>'s R&D conference in Santa Clara, CA
 * <strong>Sep 27, 2016:</strong> Gave a talk at <a href="http://www.softwaretestingatlcon.com/">STAC (Software Testing Atlanta Conference) </a>
 * <strong>Aug 26, 2016:</strong> Delivered two talks in the testing track at <a href="http://androidsummit.org/">AndroidSummit</a> in McLean, VA
 * <strong>Nov 10, 2015:</strong> Presented at Google's premier testing conference (<a href="https://developers.google.com/google-test-automation-conference/2015">GTAC 2015</a>). (<a href="https://youtu.be/Vt8EUQtqBuA">video</a>, <a href="http://bit.ly/shauvik_gtac2015">slides</a>, <a href="http://bear.cc.gatech.edu/~shauvik/androtest/">infrastructure</a>)
