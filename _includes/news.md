@@ -1,4 +1,6 @@
-* <strong>Oct 22, 2016:</strong> Speaking about Using Software Robots for App Testing at <a href="http://connect.tech">Connect.TECH</a> conference in Atlanta, GA
+* <strong>Nov 12, 2016:</strong> Conducted a Mobile App Testing Workshop at the first ever <a href="http://www.gdgatl.xyz/">GDG DevFest</a> in Atlanta, GA.
+
+* <strong>Oct 22, 2016:</strong> Spoke at <a href="http://connect.tech">Connect.TECH</a> conference on <i>Using Software Robots for App Testing</i> in Atlanta, GA
 
 * <strong>Oct 14, 2016:</strong> Presented at <a href="http://huawei.com">Huawei</a>'s R&D conference in Santa Clara, CA
 
