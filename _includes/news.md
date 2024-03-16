@@ -1,12 +1,6 @@
-* <strong>Nov 12, 2016:</strong> Conducted a Mobile App Testing Workshop at the first ever <a href="http://www.gdgatl.xyz/">GDG DevFest</a> in Atlanta, GA.
+* <strong>Apr 06, 2020:</strong> Team MoQuality is joining Snapchat to work on Performance Tools as a next chapter in our journey! 
 
-* <strong>Oct 22, 2016:</strong> Spoke at <a href="http://connect.tech">Connect.TECH</a> conference on <i>Using Software Robots for App Testing</i> in Atlanta, GA
-
-* <strong>Oct 14, 2016:</strong> Presented at <a href="http://huawei.com">Huawei</a>'s R&D conference in Santa Clara, CA
-
-* <strong>Sep 27, 2016:</strong> Gave a talk at <a href="http://www.softwaretestingatlcon.com/">STAC (Software Testing Atlanta Conference) </a>
-
-* <strong>Aug 26, 2016:</strong> Delivered two talks in the testing track at <a href="http://androidsummit.org/">AndroidSummit</a> in McLean, VA
+* <strong>Oct 10, 2017:</strong> MoQuality just graduated from Techstars Atlanta accelerator. See <a href="https://www.youtube.com/watch?v=bajUqDTIu6E"> our pitch at demo day</a>!
 
 * <strong>Jun 23, 2016:</strong> MoQuality just got awarded the federal SBIR Phase I award by the National Science Foundation!
 
@@ -14,7 +8,7 @@
 
 * <strong>Oct 22, 2015:</strong> Gave a talk at Software Testing Atlanta Conference (<a href="http://softwaretestingatlcon.com">STAC 2015</a>) on automating test cases. (<a href="http://www.slideshare.net/shauvik/from-manual-to-automated-tests-stac-2015">slides</a>)
 
-* <strong>May 1, 2015:</strong> I am excited to have finished my PhD from Georgia Tech and looking forward to the new journey with <a href="http://checkdroid.com"><s>CheckDroid</s></a> <a href="https://moquality.com">MoQuality</a>!
+* <strong>May 1, 2015:</strong> I am excited to have finished my PhD from Georgia Tech and looking forward to the new journey with <s>CheckDroid</s> MoQuality!
 
 * <strong>Feb 1, 2015:</strong> CheckDroid has received a $50K grant from <a href="http://nsf.gov">NSF</a> for participation in the <a href="http://www.nsf.gov/news/special_reports/i-corps/">iCorps program</a> for academic startups!
 
