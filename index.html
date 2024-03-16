@@ -8,32 +8,13 @@ title: Home
 {% assign n = news | split: "*" %}
 {% assign ns =  n | size  %}
 
-<div class="message">
-    <h2>News</h2>
-<small>
-{% if ns > 5%}
-  <ul>
-    {% for i in (1..5) %}
-      <li>{{n[i]}}
-    {% endfor %}
-  </ul>
-  {% else %}
-    {{ news | markdownify }}
-  {% endif %}
-</small>
-  <div style="width:100%;text-align:right"><a href="/news">more</a></div>
-</div>
-
 
 <h1>BIO</h1>
 <p>
-    Dr. Shauvik Roy Choudhary is the CEO and Co-Founder of MoQuality, where his team is using AI and computer vision to build the next generation testing tool for mobile apps. 
-    He received his PhD in Computer Science from Georgia Tech with a minor in business from the <a href="https://www.scheller.gatech.edu">Scheller School of Business</a>, where he was a <a href="https://www.scheller.gatech.edu/centers-initiatives/tiger/index.html">TI:GER</a> Entrepreneurship fellow. 
-    His PhD research was focused on techniques for cross-platform testing and maintenance for web and mobile applications. 
-    As a thought leader in the testing space, he has published several articles and delivered several talks at major academic and industry conferences. 
-    Prior to his PhD, Shauvik received his MS in Information Security from Georgia Tech and his BE in Computer Engineering from Mumbai University. 
-    Over the years, he has held several research and development roles at companies including, FullStory, Google, Fujitsu Labs, Yahoo! Inc., IBM Research, Goldman Sachs and HSBC Software. 
-    <br>For more information about Shauvik, visit his website at <a href="http://shauvik.com">http://shauvik.com</a>
+  Shauvik Roy Choudhary is an experienced leader in the app testing and performance space, where he has spent the last 15 years building innovative solutions to bring cutting-edge research tools to market. Most recently at Snap, Shauvik led a team to build their continuous performance testing infrastructure and client observability tools to safeguard performance, reliability and efficiency of the Snapchat application. Before Snap, Shauvik founded a VC-backed startup MoQuality that built AI/ML powered mobile test generation and maintenance tools which had a successful exit to its largest customer. Over the years, he has led several research and development initiatives at companies including FullStory, Google, Fujitsu Labs, Yahoo! Inc., IBM Research, Goldman Sachs and HSBC Software.
+</p>
+<p>
+  Shauvik received his PhD in <a href="https://scs.gatech.edu/">Computer Science</a> from <a href="https://www.gatech.edu/">Georgia Tech</a> in the <a href="https://scs.gatech.edu/programming-languages-software-engineering">Programming languages and Software Engineering group</a> with a business minor from the  <a href="https://www.scheller.gatech.edu">Scheller School of Business</a>, where he was a <a href="https://www.scheller.gatech.edu/centers-initiatives/tiger/index.html">TI:GER</a> Entrepreneurship fellow. His PhD research was focused on techniques for cross-platform testing and maintenance for web and mobile applications and has won several competitive awards including the ACM Student Research competition, Yahoo Key Scientific Challenges, and NSF SBIR grant. As a thought leader in the testing space, he has published several articles and delivered several talks at major academic and industry conferences.
 </p>
     
 
